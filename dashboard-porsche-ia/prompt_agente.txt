@@ -1,0 +1,10 @@
+Analise a planilha de dados Porsche. Preserve os registros originais e crie uma versão tratada.
+
+1. Identifique colunas, tipos de dados, valores ausentes e registros duplicados.
+2. Padronize datas, nomes de países, regiões, modelos, categorias e motorização.
+3. Converta campos numéricos e monetários para formatos consistentes.
+4. Não invente valores para campos ausentes sem sinalização explícita.
+5. Identifique possíveis outliers e registros incoerentes para revisão humana.
+6. Documente todas as transformações aplicadas.
+7. Gere uma tabela final limpa, mantendo o significado dos dados originais e pronta para alimentar o dashboard.
+8. Ao final, apresente um resumo dos problemas encontrados, das correções aplicadas e dos itens que ainda precisam de validação humana.
