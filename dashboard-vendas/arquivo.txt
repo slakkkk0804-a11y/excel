@@ -1,0 +1,3 @@
+A planilha do projeto está disponível no arquivo gerado nesta entrega: Dashboard_Vendas_Excel.xlsx.
+
+Caso o GitHub não exiba a planilha diretamente no navegador, faça o download do arquivo para abrir no Excel.
